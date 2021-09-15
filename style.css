@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#dark:checked ~ .container {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+input#dark {
+    position: absolute;
+    visibility: hidden;
+}
+
+.toggle-dark {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 64px;
+    cursor: pointer;
+}
+
+.toggle-dark .la-moon {
+    position: absolute;
+    visibility: hidden;
+}
+
+#dark:checked ~ * > .toggle-dark .la-moon {
+    position: initial;
+    visibility: initial;
+    color: white;
+}
+
+#dark:checked ~ * > .toggle-dark .la-sun {
+    position: absolute;
+    visibility: hidden;
+}
