@@ -30,10 +30,15 @@ input#dark {
     visibility: hidden;
 }
 
+.toggle-dark .la-sun {
+    cursor: pointer;
+}
+
 #dark:checked ~ * > .toggle-dark .la-moon {
     position: initial;
     visibility: initial;
     color: white;
+    cursor: pointer;
 }
 
 #dark:checked ~ * > .toggle-dark .la-sun {
