@@ -3,6 +3,7 @@
 # Vanilla ToggleDark
 
 [![Demo](demo.gif)](https://gnkalk.github.io/Vanilla-ToggleDark)
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark?ref=badge_shield)
 
 [FA](README.rtl.md)
@@ -44,9 +45,11 @@ input#dark {
 
 Well, we have to get to the heart of the matter, using: Checked to give the rest of the items a very comfortable and stylish style. You can also use ~ it to modify the sidebar, however, if you have not noticed yet, there is a demo here for good understanding =))
 
+
+
+### License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark?ref=badge_large)
+
 ---
 
-Created By [Gnkalk](https://github.com/Gnkalk) ©️ 2021
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-ToggleDark?ref=badge_large)
+Created By [Gnkalk](https://github.com/Gnkalk) © 2021
